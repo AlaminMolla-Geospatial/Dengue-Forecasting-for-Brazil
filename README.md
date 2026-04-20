@@ -1,1 +1,1 @@
-This repository contains all the codes used for monthly dengue forecasting for Brazil.
+This repository contains all the code used to forecast monthly dengue case counts for Brazil. We applied an advanced Random Forest model using spatial 5-fold cross-validation, combined with expanding-window monthly prediction. 
